@@ -1,0 +1,9 @@
+D:\vp\LABS\Lab-04\guessthepic\guessthepic\bin\Debug\guessthepic.exe.config
+D:\vp\LABS\Lab-04\guessthepic\guessthepic\bin\Debug\guessthepic.exe
+D:\vp\LABS\Lab-04\guessthepic\guessthepic\bin\Debug\guessthepic.pdb
+D:\vp\LABS\Lab-04\guessthepic\guessthepic\obj\Debug\guessthepic.csprojResolveAssemblyReference.cache
+D:\vp\LABS\Lab-04\guessthepic\guessthepic\obj\Debug\guessthepic.Form1.resources
+D:\vp\LABS\Lab-04\guessthepic\guessthepic\obj\Debug\guessthepic.Properties.Resources.resources
+D:\vp\LABS\Lab-04\guessthepic\guessthepic\obj\Debug\guessthepic.csproj.GenerateResource.Cache
+D:\vp\LABS\Lab-04\guessthepic\guessthepic\obj\Debug\guessthepic.exe
+D:\vp\LABS\Lab-04\guessthepic\guessthepic\obj\Debug\guessthepic.pdb
